@@ -93,7 +93,7 @@ var specialCharacters = [
     // Variable to store length of password from user input
     var length = parseInt(
       prompt(
-        " How many characters would you like your password to contain? Min (8) Max (128)"
+        " Choose the lenght for you password (Up to 128 characters but no less than 8)"
       )
     );
   
