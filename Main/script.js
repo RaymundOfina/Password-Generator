@@ -128,7 +128,7 @@ var specialCharacters = [
   
     // Lowercase
     var hasLowerCasedCharacters = confirm(
-      "Click OK if you wish to ncluding lowercase characters."
+      "Click OK if you wish to including lowercase characters."
     );
   
     // Uppercase
